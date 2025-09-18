@@ -17,8 +17,8 @@
 | Bitlen | Solidity | 2024-05 | Core/B2 Network |
 | Bitget Red Envelope | TON FunC | 2024-06 | TON |
 | TonArk | TON FunC | 2024-10 | TON |
-|DCAHQ|Clarity |2024-10|Stacks|
-|BSD-money|Clarity|2024-11|Stacks|
+| DCAHQ|Clarity |2024-10|Stacks|
+| BSD-money|Clarity|2024-11|Stacks|
 | BulbaSwap deploy V3 | Solidity | 2024-10 | Morph |
 | BulbaSwap V2 | Solidity | 2024-10 | Morph |
 | Soex | Rust | 2024-10 | Solana |
@@ -44,7 +44,12 @@
 | Ora | Solidity |2025-06 | Sei |
 | ZkWasm |Solidity |2025-06 | Ethereum |
 | Mango| Move |2025-07 | Aptos,Sui, Solana, Ethereum |
-
+| Aimonica| Solidity |2025-07 |Ethereum |
+| Bitget-BWSolanaSwap| Rust |2025-07 | Solana |
+| Bitget-BWSwapV2| Solidity |2025-07 | Ethereum |
+| Cysic NFT | Solidity |2025-07 | Ethereum |
+| DefAI Staking | Rust |2025-07 | Solana |
+| DefAI Swap | Rust |2025-07 | Solana |
 
 
 ## Chain Audit
@@ -52,6 +57,8 @@
 - U2U-Go-Helios
 - Tabi
 - InitVerse
+- QuarkChain
+
 
 ## Wallet
 
@@ -65,6 +72,7 @@
 - AiBox 2025-03
 - Infini 2025-04
 - Cobo 2025-06
+- MyPal 2025-07
 
 ## [OrangeHats Program](https://x.com/Stacks/status/1798369770082881912)
 - [BSD-money](https://www.bsd.money/) : BSD Money Clarity Smart Contract Audit Report 
