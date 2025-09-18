@@ -47,9 +47,9 @@
 | Aimonica| Solidity |2025-07 |Ethereum |
 | Bitget-BWSolanaSwap| Rust |2025-07 | Solana |
 | Bitget-BWSwapV2| Solidity |2025-07 | Ethereum |
-| Cysic NFT | Solidity |2025-07 | Ethereum |
-| DefAI Staking | Rust |2025-07 | Solana |
-| DefAI Swap | Rust |2025-07 | Solana |
+| Cysic NFT | Solidity |2025-08 | Ethereum |
+| DefAI Staking | Rust |2025-08 | Solana |
+| DefAI Swap | Rust |2025-08 | Solana |
 
 
 ## Chain Audit
