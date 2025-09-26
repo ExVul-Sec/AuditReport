@@ -50,9 +50,10 @@
 | Cysic NFT | Solidity |2025-08 | Ethereum |
 | DefAI Staking | Rust |2025-08 | Solana |
 | DefAI Swap | Rust |2025-08 | Solana |
-
+| UXLink | Solidity |2025-09 | Ethereum |
 
 ## Chain Audit
+
 - OORT(https://www.oortech.com/) Audit report
 - U2U-Go-Helios
 - Tabi
