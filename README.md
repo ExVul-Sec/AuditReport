@@ -51,6 +51,7 @@
 | DefAI Staking | Rust |2025-08 | Solana |
 | DefAI Swap | Rust |2025-08 | Solana |
 | UXLink | Solidity |2025-09 | Ethereum |
+| Aifortuna | Solidity | 2025-09 | Ethereum |
 
 ## Chain Audit
 
